@@ -1,6 +1,6 @@
 /* eslint-env browser */
 
-import Storage from "./data/StatsStorage.js";
+import Storage from "./data/Storage.js";
 import Editor from "./ui/Editor.js";
 import StatsView from "./ui/StatsView.js";
 
